@@ -1,14 +1,14 @@
-eid
-cancer_death
-death_age
-death_date
-icd10_first.1
-icd10_first.2
-icd10_first.3
-icd10_first.4
-icd10_first.5
-dxage_first.1
-dxage_first.2
-dxage_first.3
-dxage_first.4
-dxage_first.5
+eid no
+cancer_death    no
+death_age   no
+death_date  no
+icd10_first.1   yes
+icd10_first.2   yes
+icd10_first.3   yes
+icd10_first.4   yes
+icd10_first.5   yes
+dxage_first.1   no
+dxage_first.2   no
+dxage_first.3   no
+dxage_first.4   no
+dxage_first.5   no
